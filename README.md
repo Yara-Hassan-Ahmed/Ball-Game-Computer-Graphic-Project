@@ -16,5 +16,5 @@ Several functions were implemented to make the game function properly. These inc
 # Contributors
 This project was created by a team of developers who worked together to complete the design and implementation. The team was made up of designers and programmers who worked on different aspects of the project to bring it to completion.
 
-$ Conclusion
+# Conclusion
 This computer graphics game project showcases the ability to design and implement a functional game using various shapes and animations. The game has been developed to provide entertainment and challenge to its players, and it is hoped that it will be well received by the gaming community.
